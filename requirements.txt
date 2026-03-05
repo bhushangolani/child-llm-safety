@@ -1,0 +1,13 @@
+openai
+Jinja2
+jupyter
+matplotlib
+pandas
+seaborn
+torch
+transformers
+accelerate
+datasets
+evaluate
+scikit-learn
+tabulate
